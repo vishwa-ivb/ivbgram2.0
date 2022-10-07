@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.ivbgram</groupId>
-	<artifactId>ivbapp4</artifactId>
+	<artifactId>ivbgram2.0</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ivbapp4</name>
+	<name>ivbgram2.0</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
